@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "دكّان",
+    "slug": "dukkan-rashidiya",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {"backgroundColor": "#f5f7f4"},
+    "android": {"package": "com.dukkan.rashidiya", "adaptiveIcon": {"backgroundColor": "#176b45"}}
+  }
+}
